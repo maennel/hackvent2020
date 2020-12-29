@@ -1,0 +1,16 @@
+venv/
+*/venv/
+__pycache__/
+.idea/
+
+source_code/
+_unused/
+
+notes*.txt
+tmp
+
+docs/*.md
+docs/.tex
+docs/*.pandoc
+docs/metadata.yaml
+docs/*.pdf
