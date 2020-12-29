@@ -1,0 +1,15 @@
+---
+title: 'Hackvent 2020 - Write-up'
+author:
+- ludus
+date: '2020-12-31'
+keywords: [hackvent, hackvent-2020, hackvent2020, compass-security, ctf, security, reverse engineering]
+papersize: A4
+margin-left: 100pt
+margin-right: 100pt
+margin-top: 100pt
+margin-bottom: 100pt
+linkcolor: blue
+mainfont: 'DejaVu Serif'
+monofont: 'DejaVu Sans Mono'
+...
