@@ -1,0 +1,83 @@
+
+gmpymgbmpgmgbmpgbymgbymgbmbymbymgbympymbymmgbymgymgymbymbymgmgbmpgbmbymgbymbymgm
+gmpymgbmpgmgbmpgbymgbymgbmbymbymgbympymbymmgbymgymgymbymbymgmgbmpgbmbymgbymbymgm
+gmpymgbmpgmgbmpgbymgbymgbmbymbymgbympymbymmgbymgymgymbymbymgmgbmpgbmbymgbymbymgm
+gmpymgbmpgmgbmpgbymgbymgbmbymbymgbympymbymmgbymgymgymbymbymgmgbmpgbmbymgbymbymgm
+gmpymgbmpgmgbmpgbymgbymgbmbymbymgbympymbymmgbymgymgymbymbymgmgbmpgbmbymgbymbymgm
+gmpymgbmpgmgbmpgbymgbymgbmbymbymgbympymbymmgbymgymgymbymbymgmgbmpgbmbymgbymbymgm
+gmpymgbmpgmgbmpgbymgbymgbmbymbymgbympymbymmgbymgymgymbymbymgmgbmpgbmbymgbymbymgm
+gmpymgbmpgmgbmpgbymgbymgbmbymbymgbympymbymmgbymgymgymbymbymgmgbmpgbmbymgbymbymgm
+
+
+
+
+
+"m" as separator
+g|py|gb|pg|gb|pgby|gby|gb|by|by|gby|py|by| |gby|gy|gy|by|by|g|gb|pgb|by|gby|by|g|
+
+4 9  6  C  6  F    7   6  3  3  7   9  3  0 7   5  5  3  3  4 6  E   3  7   3  4
+
+496C6F763379307553346E3734
+I l o v 3 y uS4n74
+
+y=1
+b=2
+g=4
+p=8
+
+==> Flag: HV20{Ilov3y0uS4n74}
+
+
+Other attempts (base 4):
+####
+1 12 6  13 6  216
+
+y=0
+g=1
+b=2
+p=3
+
+
+3 8  13 11 13 116  52  13
+
+y=0
+b=1
+p=2
+g=3
+
+#####
+Other attempts at splitting:
+
+
+gm py mg bm pg mg bm pg by mg by mg bm by mb ym gb ym py mb ym mg by mg ym gy mb ym by mg mg bm pg bm by mg by mb ym gm
+
+gmp ymg bmp gmg bmp gby mgb ymg bmb ymb ymg bym pym bym mgb ymg ymg ymb ymb ymg mgb mpg bmb ymg bym bym gm
+
+gmpy mgbm pgmg bmpg bymg bymg bmby mbym gbym pymb ymmg bymg ymgy mbym bymg mgbm pgbm bymg bymb ymgm
+
+"ym" as a separator?
+gmp ym gbmpgmgbmpgb ym gb ym gbmb ym b ym gb ym p ym b ym mgb ym g ym g ym b ym b ym gmgbmpgbmb ym gb ym b ym gm
+
+"gb" as a separator?
+gmpym gb mpgm gb mp gb ym gb ym gb mbymbym gb ympymbymm gb ymgymgymbymbymgm gb mp gb mbym gb ymbymgm
+
+g mp ym gb  mp gm gb  mp  gb ym gb ym gb mb ym b ym gb ym p ym b ym m gb ym g ym g ym b ym b ym gm gb  mp  gb mb ym gb ym b ym gm
+T h  e  -         -       -  e  -  e  -     e    e  -  e    e    e    -  e    e    e    e    e     -       -     e  -  e    e   
+
+
+"ymg" as a separator?
+gmp ymg bmpgmgbmpgb ymg b ymg bmbymb ymg bympymbymmgb ymg  ymg ymbymb ymg mgbmpgbmb ymg bymb ymg m
+
+
+"ymb" as a separator?
+gmpymgbmpgmgbmpgbymgbymgbmb ymb ymgbymp ymb ymmgbymgymg ymb  ymb ymgmgbmpgbmbymgb ymb ymgm
+
+"gbm" as a separator?
+gmpym gbm pgm gbm pgbymgbym gbm bymbymgbympymbymmgbymgymgymbymbymgm gbm p gbm bymgbymbymgm
+
+
+santa
+
+
+Colors:
+gmpyb
