@@ -31,3 +31,5 @@ Dear reader, have fun going through the challenges and my solutions. It would be
 Yours,
 
 \- ludus
+
+PS: This write-up is published at https://maennel.github.io/hackvent2020/.
