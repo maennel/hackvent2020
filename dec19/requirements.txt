@@ -1,0 +1,14 @@
+Flask
+bootstrap-flask
+Flask-WTF
+dotenv-linter
+yamllint
+PyYAML
+docker-compose
+
+# For deployment in Dockerfile
+gunicorn
+
+# For exploit.py
+beautifulsoup4
+requests
