@@ -17,7 +17,7 @@ Huge thanks go to:
 - *0xdf*
 - *jokker*
 
-Many thanks also go to the organising team from Compass and to all the challenge authors!! It's a great event that I look forward to every year.
+Many thanks also go to the organising team from Compass Security and to all the challenge authors!! It's a great event that I look forward to every year.
 
 This year, in contrast to previous years, I found the level of the challenges to be more evened out throughout the entire month. I.e. harder challenges in the beginning, and less increase in the process.
 
@@ -25,7 +25,7 @@ Some challenges had a very guessy component, which is something I don't like too
 
 Thanks to a more community driven approach I was able to unblock myself with the help of others either from the Discord server or via other channels.
 
-Dear reader, have fun going through the challenges and my solutions. It would be great hearing from you if this inspires you to participate next year.
+Dear reader, have fun going through the challenges and my solutions. It would be great hearing from you if this inspires you to participate next year. To do so, check out news on or related to https://hacking-lab.com/. This year's HackVent 2020 took place at https://competition.hacking-lab.com/.
 
 
 Yours,
